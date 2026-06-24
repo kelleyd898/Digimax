@@ -1,5 +1,5 @@
 import { useState, useMemo } from 'react';
-import { Link, useNavigate } from 'react-router';
+import { useNavigate } from 'react-router';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Search, Check, Phone, ArrowRight, AlertTriangle, X, MapPin, User, Mail, Loader2, CheckCircle2 } from 'lucide-react';
 import Header from '../components/Header';
